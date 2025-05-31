@@ -1,0 +1,24 @@
+Elastic License 2.0
+
+Copyright © 2025 Adam Kilber
+
+This software is licensed under the Elastic License 2.0.
+
+You may not use this file except in compliance with the Elastic License 2.0.
+
+You may obtain a copy of the Elastic License 2.0 at:
+
+    https://www.elastic.co/licensing/elastic-license
+
+Software: ContextQL
+Components: ContextQL (query language spec), ContextDB (reference engine)
+
+NOTICE
+
+You are free to use, copy, modify, and distribute the software, with the following limitations:
+
+1. You may not provide the software to others as a hosted or managed service.
+2. You may not circumvent the license key or use the software to build a competitive hosted product.
+3. You may not remove or obscure any licensing, attribution, or usage restriction notices.
+
+For all licensing inquiries, including alternative licensing for commercial use, please contact: [your email or placeholder]
