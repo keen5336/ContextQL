@@ -54,4 +54,4 @@ ContextQL aims to support:
 This project is licensed under the [Elastic License 2.0](https://www.elastic.co/licensing/elastic-license).  
 You are free to use, modify, and self-host the code, but **you may not offer it as a hosted service**.
 
-For licensing questions, reach out to: `contact@yourdomain.dev`
+For licensing questions, reach out to: `contact@contextql.dev`
